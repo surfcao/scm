@@ -6,6 +6,7 @@ the attached tutorial codes for a quick start.
 
 Please cite the following papers for usage of the included codes:
 
+```
 @article{cao2011multinomial,
   title={A multinomial logistic mixed model for the prediction of categorical spatial data},
   author={Cao, Guofeng and Kyriakidis, Phaedon C and Goodchild, Michael F},
@@ -16,7 +17,8 @@ Please cite the following papers for usage of the included codes:
   year={2011},
   publisher={Taylor \& Francis}
 }
-
+```
+```
 @article{Cao2011combining,
   title={Combining spatial transition probabilities for stochastic simulation of categorical fields},
   author={Cao, Guofeng and Kyriakidis, Phaedon C and Goodchild, Michael F},
@@ -27,4 +29,5 @@ Please cite the following papers for usage of the included codes:
   year={2011},
   publisher={Taylor \& Francis}
 }
+```
 
