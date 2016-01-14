@@ -1,4 +1,4 @@
-# SCM (Spatial Categorical Modelign)
+# SCM (Spatial Categorical Modeling)
 
 A Matlab toolbox for statistical modeling of spatial categorical data
 (e.g., land use, land cover, image classification results).
